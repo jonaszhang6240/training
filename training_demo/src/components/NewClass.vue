@@ -1,3 +1,7 @@
+<!-- 最新课程展示页
+    获取最新课程数据
+    循环生成
+ -->
 <template>
 	<div class="newClass">
 		<van-nav-bar

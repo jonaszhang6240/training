@@ -1,3 +1,6 @@
+<!-- 导航栏
+    4大课程类型 =》点击进入课程筛选列表
+ -->
 <template>
 	<div class="navBar">
 		<div class="navItem">

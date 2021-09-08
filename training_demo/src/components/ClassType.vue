@@ -1,3 +1,5 @@
+<!-- 课程推荐 
+ -->
 <template>
 	<div  class="classType">
         <div class="titleImg">
